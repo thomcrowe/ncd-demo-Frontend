@@ -1,0 +1,72 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "We're launching SaaS Awesomeness. ",
+        "linkText": "Try it today."
+      }
+    },
+    {
+      "id": "BannerWithButton"
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Embrace Innovation with Our Cutting-Edge Platform Solution",
+        "title": "Revolutionize Your Workflows with SaaS Awesomeness"
+      }
+    },
+    {
+      "id": "HeroSplitWithScreenshot",
+      "variables": {
+        "buttonText": "Launch Your SaaS",
+        "linkText": "Learn how we do it",
+        "subtitle": "One SaaS to rule them all. We use generative AI and it works.",
+        "title": "Launch your own SaaS"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Embrace Innovation with Our Cutting-Edge Platform Solution",
+        "title": "Revolutionize Your Workflows with SaaS Awesomeness"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Embrace Innovation with Our Cutting-Edge Platform Solution",
+        "title": "Revolutionize Your Workflows with SaaS Awesomeness"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Embrace Innovation with Our Cutting-Edge Platform Solution",
+        "title": "Revolutionize Your Workflows with SaaS Awesomeness"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Embrace Innovation with Our Cutting-Edge Platform Solution",
+        "title": "Revolutionize Your Workflows with SaaS Awesomeness"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Embrace Innovation with Our Cutting-Edge Platform Solution",
+        "title": "Revolutionize Your Workflows with SaaS Awesomeness"
+      }
+    },
+    {
+      "id": "FooterSocialLinksOnly"
+    }
+  ],
+  "theme": "neo-brutal",
+  "font": "",
+  "title": "Revolutionize Your Workflows with SaaS Awesomeness",
+  "subtitle": "Embrace Innovation with Our Cutting-Edge Platform Solution"
+}
